@@ -1,4 +1,4 @@
-Hi, I am **Ruihua Han**. 
+Hi 👋, I am **Ruihua Han**. 
 
 - I am deeply passionate about developing the generally intelligent and theoretically guaranteed robotics systems capable of performing complex tasks comparable to human capabilities. 
 
