@@ -2,13 +2,11 @@ Hi 👋, I am **Ruihua Han**.
 
 - I am deeply passionate about developing the generally intelligent and theoretically guaranteed robotics systems capable of performing complex tasks comparable to human capabilities. 
 
-- My current research focuses on the optimal control and motion planning for ground mobile robots navigating cluttered and inhabited environments.
+- My current research focuses on the optimal control and motion planning for ground mobile robots navigating cluttered and inhabited environments. I am particularly interested in the integration of the learning techniques and optimization theory and apply that on the real robots to enhance the adaptability and efficiency of mobile robot systems.
  
-- I am utilizing learning techniques and optimization theory (Model-based learning) to enhance the adaptability and efficiency of mobile robot systems. Additionally, I am also interested in the whole body humanoid robot control and planning.
+- Additionally, I am also interested in and researching the whole body robot locomotion.
 
-I am looking for the **postdoctoral  opportunity** in the robotics field. 
-
-
+<!-- I am looking for the **postdoctoral  opportunity** in the robotics field.  -->
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanruihua&hide=prs,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
