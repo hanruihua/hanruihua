@@ -4,7 +4,6 @@ Hi 👋, I am **Ruihua Han**.
 
 - My current research focuses on the **optimal control and motion planning** for ground mobile robots navigating unknown, cluttered, and inhabited environments. I am particularly interested in integrating **learning techniques with optimization theory** and applying them to real robots to enhance the adaptability and efficiency of intelligent autonomous systems. 
  
-- Additionally, I am also interested in and researching the whole body robot locomotion.
 
 <!-- I am looking for the **postdoctoral  opportunity** in the robotics field.  -->
 
