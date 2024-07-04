@@ -7,7 +7,7 @@ Hi 👋, I am **Ruihua Han**.
 
 <!-- I am looking for the **postdoctoral  opportunity** in the robotics field.  -->
 
-I am seeking **postdoctoral opportunities** in the field of robotics.
+<!--I am seeking **postdoctoral opportunities** in the field of robotics. -->
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanruihua&hide=prs,contribs&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) -->
